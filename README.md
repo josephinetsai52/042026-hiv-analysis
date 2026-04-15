@@ -1,6 +1,6 @@
 # Analysis of TK data set — MM/YYYY to MM/YYYY
 
-This repository contains data, analytic code, and findings that support portions of the article, “[TKTKTKTK](https://www.google.com),” published Month Date, Year. Please read that article, which contains important context and details, before proceeding.
+This repository contains data, analytic code, and findings that support portions of the article, “[HIV project](https://www.google.com),” published Month Date, Year. Please read that article, which contains important context and details, before proceeding.
 
 ## Data
 
